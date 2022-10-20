@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #202142;
+  background-color: #282c34;
   color: #fff;
   line-height: 1.6;
 }
@@ -87,7 +87,7 @@ header {
 
 .rating li:hover,
 .num-display {
-  background: #ff6a95;
+  background: #61afef;
   color: #fff;
 }
 
@@ -96,7 +96,7 @@ header {
 }
 
 [type='radio']:checked ~ label {
-  background: #ff6a95;
+  background: #61afef;
   color: #fff;
 }
 
@@ -156,7 +156,7 @@ input:focus {
 }
 
 .btn-primary {
-  background-color: #202142;
+  background-color: #98c379;
 }
 
 .btn-secondary {
@@ -182,7 +182,7 @@ input:focus {
 .message {
   padding-top: 10px;
   text-align: center;
-  color: rebeccapurple;
+  color: #e06c75;
 }
 
 /* FIX: Remove position: absolute to keep about icon at the bottom of the
